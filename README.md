@@ -1,6 +1,6 @@
 ## Sandbox
 
-TODO: Add in some guides to learn and use the system
+**TODO: Add in some instructables/guides to learn and use the system**
 
 Welcome to RT sandbox, in here you may use any functions of the github to test  
 1. Git commits  
